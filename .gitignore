@@ -1,0 +1,9 @@
+# Build output (./build.sh, ./package.sh)
+build/
+dist/
+# Downloaded GitHub CLI
+tools/gh/
+tools/gh-download/
+# Older copy of the project, not part of this app
+/Rimshot/
+.DS_Store
